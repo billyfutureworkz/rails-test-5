@@ -16,11 +16,3 @@ RSpec.describe Student, type: :model do
     end
   end
 end
-
-
-
-   
-
-    # it "raises an error if end time is lower than start time" do
-    #   @time_event.errors.should include("An event can not be finished if it did not start yet...")
-    # end
